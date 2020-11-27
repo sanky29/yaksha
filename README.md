@@ -29,3 +29,12 @@ loop i = 0 to 10:
 ...code....
 <br />
 end loop;
+<br />
+<br />
+Example:
+<br />
+1. The code is as follows:
+<br /><br />
+loop i = 0 to 11:
+(i*3) (3+i*3 - 1) {i+1}.jpg 0 0 0;
+end loop;
