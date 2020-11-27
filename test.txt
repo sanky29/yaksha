@@ -1,0 +1,9 @@
+loop I = 0 to 17:
+I (I+1) apple.jpeg 300 (300-20*I) 0;
+end loop;
+loop I = 0 to 20:
+(I+18) (I+19) applel.jpeg (250-I*5) I*5 I*9 appler.jpeg (350+I*9) I*5 (360-I*9);
+end loop; 
+loop I = 1 to 21:
+(I+38) (I+39) applel.jpeg (150-I*5) (100-I*5) (180+I*9) appler.jpeg (450+I*5) (100-I*5) (180-I*9);
+end loop; 
