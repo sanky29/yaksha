@@ -8,7 +8,7 @@ The requirments are
 I have used ocaml to make develop the flip book language. I have added following primitives
 <br />
 1. Rotation to image
->br />
+<br />
 2. Position
 <br />
 3. Multiple image plot
