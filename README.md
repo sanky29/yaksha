@@ -35,6 +35,9 @@ Example:
 <br />
 1. The code is as follows:
 <br /><br />
-loop i = 0 to 11:
-(i*3) (3+i*3 - 1) {i+1}.jpg 0 0 0;
-end loop;
+loop i = 0 to 11:<br />
+(i*3) (3+i*3 - 1) {i+1}.jpg 0 0 0;<br />
+end loop;<br />
+As you see there is no rotation and position change the output is
+<br />
+![Alt Text](data/good.gif)
