@@ -42,3 +42,12 @@ As you see there is no rotation and position change the output is
 <br />
 
 <img alt="ALT test" src="https://github.com/sanky29/yaksha/blob/master/data/good.gif">
+
+<br />
+2. Now for followig code we have <br />
+loop i = 0 to 11:<br />
+(i*3) (3+i*3 - 1) {i+1}.jpg i*10 i*10 i*10;<br />
+end loop;<br />
+<img alt="ALT test" src="https://github.com/sanky29/yaksha/blob/master/data/good.gif">
+
+
