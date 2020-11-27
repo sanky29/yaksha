@@ -52,9 +52,16 @@ As you see there is no rotation and position change the output is
 
 <br />
 2. Now for followig code we have <br />
-loop I = 0 to 11:<br />
-(I*3) (3+I*3 - 1) {I+1}.jpg I*10 I*10 I*10;<br />
+loop I = 0 to 17:<br />
+I (I+1) apple.jpeg 300 (300-20*I) 0;<br />
 end loop;<br />
+loop I = 0 to 20:<br />
+(I+18) (I+19) applel.jpeg (250-I*5) I*5 I*9 appler.jpeg (350+I*9) I*5 (360-I*9);<br />
+end loop;<br /> 
+loop I = 1 to 21:<br />
+(I+38) (I+39) applel.jpeg (150-I*5) (100-I*5) (180+I*9) appler.jpeg (450+I*5) (100-I*5) (180-I*9);<br />
+end loop; <br />
+
 <img alt="ALT test" src="https://github.com/sanky29/yaksha/blob/master/good2.gif">
 
 
