@@ -40,4 +40,5 @@ loop i = 0 to 11:<br />
 end loop;<br />
 As you see there is no rotation and position change the output is
 <br />
-![Alt text](https://github.com/sanky29/yaksha/blob/master/data/good.gif)
+
+<img alt="ALT test" src="https://github.com/sanky29/yaksha/blob/master/data/good.gif">
