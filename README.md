@@ -4,6 +4,13 @@ The requirments are
 <br /> Python with libraries matplotlib, pillow
 <br /> OCaml
 
+<br />
+<br />
+To use compiler run following command <br />
+./fs.sh   input_file_name   output_file
+<br />
+The input_file_name should contain your code. The image file path should be raltive to the code file directory.
+
 <br /><br />
 I have used OCaml to make develop the flip book language. I have added following primitives
 <br />
