@@ -1,3 +1,7 @@
 # yaksha
 The requirments are
-<br />
+<br /> Linux os
+<br /> Python with libraries matplotlib, pillow
+<br /> OCaml
+
+
