@@ -40,4 +40,4 @@ loop i = 0 to 11:<br />
 end loop;<br />
 As you see there is no rotation and position change the output is
 <br />
-![Alt Text](data/good.gif)
+![Alt Text](/data/good.gif)
