@@ -4,8 +4,8 @@ exception Eof;;
 }
 
 (*define upper ans lower string*)
-let fname = ['a'-'z''A'-'Z''0'-'9' '_' '-' '/' '$' '#' '.' '%']+
-let var = ['a'-'z''A'-'Z']+
+let fname = ['a'-'z']+['A'-'Z''0'-'9' '_' '-' '/' '$' '#' '.' '%']+
+let var = ['A'-'Z']+
 let num = ['0'-'9']+
 let comm = ['a'-'z''A'-'Z''0'-'9' '_' '-' '/' '$' '#' ' ' '%']*
 
