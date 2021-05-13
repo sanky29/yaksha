@@ -51,8 +51,8 @@ end loop;
 ```
 ## Results
 1. Result of code example 1:
-<img alt="ALT test" src="https://github.com/sanky29/yaksha/blob/master/data/good.gif">
+<img alt="ALT test" src="https://github.com/sanky29/yaksha/blob/master/data/good.gif" width=200>
 2. Result of code example 2:
-<img alt="ALT test" src="https://github.com/sanky29/yaksha/blob/master/good2.gif">
+<img alt="ALT test" src="https://github.com/sanky29/yaksha/blob/master/good2.gif" width=200>
 
 
