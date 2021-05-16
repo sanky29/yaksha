@@ -16,8 +16,8 @@ This was part of placement process of Hasura. We were suppose to develop small t
 ## Getting Started
 The general syntax of language is
 <br />
-1. start_frame end_frame image_path pos_x1 pos_y1 rotation1 image_name2 pos_x2 pos_y2 rotation2
-   - Now this expression will command to plot all images at respective position and rotation given from start_frame to end_frame. The image_path is relative path to image.
+1. start_frame end_frame image_path_1 pos_x1 pos_y1 rotation1 image_path_2 pos_x2 pos_y2 rotation2
+   - Now this expression will command to plot all images (images at image_path_1 and image_path_2) at respective position and rotation given from start_frame to end_frame. The image_path is relative path to code directory.
 2. Al loop can be written like
 ```
 loop i = 0 to 10:
